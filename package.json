@@ -1,0 +1,14 @@
+{
+  "name": "expressjwt-authentication",
+  "version": "1.0.0",
+  "description": "Creating a simple express JWT authentication middleware with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Sequeira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
